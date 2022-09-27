@@ -4,7 +4,7 @@ import {
   increment,
   decrement,
   incrementByAmount,
-} from "../features/counter/CounterSlice";
+} from "../features/counter/counterSlice";
 import { ChangeEvent, useState } from "react";
 import styled from "@emotion/styled";
 import Head from "next/head";
